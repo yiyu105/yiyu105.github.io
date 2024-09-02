@@ -26,10 +26,10 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [LLM4CP](https://github.com/liuboxun/LLM4CP) - LLMs for channel Prediction. 
 * [GDMOPT](https://github.com/changsenxia/GDMOPT) - Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization.
 
-### meteorological-related communication network
+### Meteorological-related communication network
 * [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/) - RSSI under different weather prediction based on ML/DL;[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
 
-### network metric/performance prediction
+### Network metric/performance prediction
 * [wireless-pr3d](https://github.com/samiemostafavi/wireless-pr3d) - latency of 5G link prediction(GLOBECOM24);[paper](https://ieeexplore.ieee.org/abstract/document/10437281),[code](https://github.com/samiemostafavi/wireless-pr3d)
 * [pmnet](https://github.com/abman23/pmnet) - path loss prediction based on ML(GLOBECOM24);[paper](https://arxiv.org/abs/2312.03950),[code](https://github.com/abman23/pmnet)
 * [Federated_time_Series_Forecasting](https://github.com/vperifan/Federated-Time-Series-Forecasting) - Time series prediction based on FL
@@ -37,7 +37,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
  
 
 
-### trajectory plan
+### Trajectory plan
 * [multi-agent-path-planing](https://github.com/changsenxia/multi_agent_path_planning) - path planning based on multi-agent RL.
 * [ICC_2022_CBQ](https://github.com/chenbq/ICC_2022_CBQ) - Decentralized Trajectory and Power Control Based on Multi-Agent Deep Reinforcement  Learning in UAV Networks; [paper](https://ieeexplore.ieee.org/abstract/document/9838637), [code](https://github.com/chenbq/ICC_2022_CBQ)
 * [uav-bs-ctrl](https://github.com/zhangxiaochen95/uav_bs_ctrl) -  Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks(TWC22'); [paper](https://ieeexplore.ieee.org/document/9892688), [code](https://github.com/zhangxiaochen95/uav_bs_ctrl)
@@ -45,7 +45,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 
 
-### network optimization
+### Network optimization
 *[AQM-BDG-in-NS3](https://github.com/ChangWu98/AQM-BDG-in-NS3) - End-to-end congestion control scheme including AQM in NS3 ; [paper](https://ieeexplore.ieee.org/abstract/document/10118624), [Code](https://github.com/ChangWu98/AQM-BDG-in-NS3)
 
 * Updating
@@ -55,7 +55,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 ## Education
 
-* *Ph.D.* in Software Engineering ([College of Electronics and Information Technology, NUIST](https://dxy.nuist.edu.cn/)), 2023 to present.
+* *Ph.D.* in Information and communication Engineering ([College of Electronics and Information Technology, NUIST](https://dxy.nuist.edu.cn/)), 2023 to present.
 * *Master* in Computer Science & Technology ([School of Computer,NUIST](https://scs.nuist.edu.cn/main.htm)), 2020 to 2023.
 * *Bachelor* in IoT Engineering ([School of Computer,NUIST](https://scs.nuist.edu.cn/main.htm)), 2016 to 2020.
 
