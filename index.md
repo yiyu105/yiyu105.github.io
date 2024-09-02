@@ -49,6 +49,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 ### Network optimization
 * [AQM-BDG-in-NS3](https://github.com/ChangWu98/AQM-BDG-in-NS3) - End-to-end congestion control scheme including AQM in NS3 ; [paper](https://ieeexplore.ieee.org/abstract/document/10118624), [Code](https://github.com/ChangWu98/AQM-BDG-in-NS3)
 * [QueuePilot](https://github.com/2dm/QueuePilot) - DRL-based AQM to optimize network; [paper](https://ieeexplore.ieee.org/abstract/document/10228975/), [Code](https://github.com/2dm/QueuePilot)
+* [Net-MARS](https://github.com/matteoprata/Net-MARS.git) - Network recovery after massive failures; [Paper](https://ieeexplore.ieee.org/abstract/document/10228861/), [Code](https://github.com/matteoprata/Net-MARS.git)
 
 #### Updating...
 
