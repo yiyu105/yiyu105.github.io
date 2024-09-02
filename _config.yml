@@ -21,7 +21,7 @@ repository               : "changsenxia/changsenxia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personalimage.JPG"
   name             : "Changsen Xia"
   pronouns         : # example: "she/her"  
   bio              : "Currentlu pursuing PHD degree at NUIST"
