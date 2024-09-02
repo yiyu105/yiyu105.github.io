@@ -41,7 +41,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [multi-agent-path-planing](https://github.com/changsenxia/multi_agent_path_planning) - path planning based on multi-agent RL.
 * [ICC_2022_CBQ](https://github.com/chenbq/ICC_2022_CBQ) - Decentralized Trajectory and Power Control Based on Multi-Agent Deep Reinforcement  Learning in UAV Networks; [paper](https://ieeexplore.ieee.org/abstract/document/9838637), [code](https://github.com/chenbq/ICC_2022_CBQ)
 * [uav-bs-ctrl](https://github.com/zhangxiaochen95/uav_bs_ctrl) -  Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks(TWC22'); [paper](https://ieeexplore.ieee.org/document/9892688), [code](https://github.com/zhangxiaochen95/uav_bs_ctrl)
-* [MEC_RL_UAV](https://github.com/zhuzhongzhi-50/MEC_RL_UAV/tree/test_DT_plus) - muti-agent AC based trajectory plan for optimizing coverage(IoTJ 24); [paper](https://ieeexplore.ieee.org/abstract/document/10458909)
+* [MEC_RL_UAV](https://github.com/zhuzhongzhi-50/MEC_RL_UAV/tree/test_DT_plus) - muti-agent AC based trajectory plan for optimizing coverage(IoTJ 24); [paper](https://ieeexplore.ieee.org/abstract/document/10458909), [code](https://github.com/zhuzhongzhi-50/MEC_RL_UAV/tree/test_DT_plus)
 
 
 
