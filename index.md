@@ -34,7 +34,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [pmnet](https://github.com/abman23/pmnet) - path loss prediction based on ML(GLOBECOM24);[paper](https://arxiv.org/abs/2312.03950),[code](https://github.com/abman23/pmnet)
 * [Federated_time_Series_Forecasting](https://github.com/vperifan/Federated-Time-Series-Forecasting) - Time series prediction based on FL
 * [ns3-ran-ai](https://github.com/signetlabdei/ns3-ran-ai) - QoS prediction implented in NS3 based on RL; [paper](https://ieeexplore.ieee.org/abstract/document/9771590/authors#authors),[code](https://github.com/signetlabdei/ns3-ran-ai)
-* 
+ 
 
 
 ### trajectory plan
