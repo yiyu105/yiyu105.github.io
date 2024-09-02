@@ -25,6 +25,12 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 #### LLM4X
 * [LLM4CP](https://github.com/liuboxun/LLM4CP) - LLMs for channel Prediction. 
 * [GDMOPT](https://github.com/changsenxia/GDMOPT) - Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization.
+
+### meteorological-related communication network
+* [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/)-RSSI prediction based on ML/DL,[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
+
+###DRL-based trajectory plan
+
 * Updating
 
 
