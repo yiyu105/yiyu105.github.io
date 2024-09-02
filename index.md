@@ -22,15 +22,28 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 ## Interested Project
 
-#### LLM4X
+### LLM4X
 * [LLM4CP](https://github.com/liuboxun/LLM4CP) - LLMs for channel Prediction. 
 * [GDMOPT](https://github.com/changsenxia/GDMOPT) - Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization.
 
 ### meteorological-related communication network
-* [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/)-RSSI prediction based on ML/DL,[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
+* [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/) - RSSI under different weather prediction based on ML/DL;[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
 
-###DRL-based trajectory plan
+### network metric/performance prediction
+* [wireless-pr3d](https://github.com/samiemostafavi/wireless-pr3d) - latency of 5G link prediction(GLOBECOM24);[paper](https://ieeexplore.ieee.org/abstract/document/10437281),[code](https://github.com/samiemostafavi/wireless-pr3d)
+* [pmnet](https://github.com/abman23/pmnet) - path loss prediction based on ML(GLOBECOM24);[paper](https://arxiv.org/abs/2312.03950),[code](https://github.com/abman23/pmnet)
+* [Federated_time_Series_Forecasting](https://github.com/vperifan/Federated-Time-Series-Forecasting) - Time series prediction based on FL
+* [ns3-ran-ai](https://github.com/signetlabdei/ns3-ran-ai) - QoS prediction implented in NS3 based on RL; [paper](https://ieeexplore.ieee.org/abstract/document/9771590/authors#authors),[code](https://github.com/signetlabdei/ns3-ran-ai)
+* 
 
+
+### trajectory plan
+[multi-agent-path-planing](https://github.com/changsenxia/multi_agent_path_planning) - path planning based on multi-agent RL.
+[ICC_2022_CBQ](https://github.com/chenbq/ICC_2022_CBQ) - Decentralized Trajectory and Power Control Based on Multi-Agent Deep Reinforcement Learning in UAV Networks; [paper](https://ieeexplore.ieee.org/abstract/document/9838637), [code](https://github.com/chenbq/ICC_2022_CBQ)
+
+
+### network optimization
+*[AQM-BDG-in-NS3](https://github.com/ChangWu98/AQM-BDG-in-NS3) - End-to-end congestion control scheme including AQM in NS3 ; [paper](https://ieeexplore.ieee.org/abstract/document/10118624), [Code](https://github.com/ChangWu98/AQM-BDG-in-NS3)
 * Updating
 
 
@@ -42,5 +55,8 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * *Master* in Computer Science & Technology ([School of Computer,NUIST](https://scs.nuist.edu.cn/main.htm)), 2020 to 2023.
 * *Bachelor* in IoT Engineering ([School of Computer,NUIST](https://scs.nuist.edu.cn/main.htm)), 2016 to 2020.
 
-
+## Publications
+* [Security and privacy in 5G internet of vehicles (IoV) environment](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Benjamin-Osibo/publication/353807350_Security_and_Privacy_in_5G_Internet_of_Vehicles_IoV_Environment/links/6112cd9f0c2bfa282a372dff/Security-and-Privacy-in-5G-Internet-of-Vehicles-IoV-Environment.pdf)
+* [Mobility-Aware Offloading and Resource Allocation Strategies in MEC Network Based on Game Theory](https://onlinelibrary.wiley.com/doi/full/10.1155/2023/5216943)
+* [Optimizing Energy-Latency Tradeoff for Computation Offloading in SDIN-Enabled MEC-based IIoT](https://itiis.org/digital-library/38222)
 
