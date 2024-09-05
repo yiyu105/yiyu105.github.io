@@ -27,7 +27,8 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [GDMOPT](https://github.com/changsenxia/GDMOPT) - Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization.
 * [Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) - model merging in LLMs,MLLMs and beyond: Methods, Theories,Applications and opportunities; [Paper](https://arxiv.org/pdf/2408.07666), [Code](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)
 * [ST-LLM](https://github.com/ChenxiLiu-HNU/ST-LLM/tree/main) - Spatial-Temporal Large Language Model for Traffic Prediction; [paper](https://arxiv.org/abs/2401.10134), [Code](https://github.com/ChenxiLiu-HNU/ST-LLM/tree/main), [pre-processed Dataset](https://drive.google.com/drive/folders/1iif59LObrPu-QrpL8Y6lWeajbn_gRf7v), [Original Datset](https://github.com/LiuZH-19/ESG)
-* [aLLM4TS](https://github.com/yxbian23/aLLM4TS) - Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning(ICML24); [paper](), [Code](https://github.com/yxbian23/aLLM4TS)
+* [aLLM4TS](https://github.com/yxbian23/aLLM4TS) - Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning(ICML24); [paper](https://arxiv.org/abs/2402.04852), [Code](https://github.com/yxbian23/aLLM4TS)
+* [Awesome-LLM4Graph-Papers](https://github.com/HKUDS/Awesome-LLM4Graph-Papers) - LLM for Graph Learning survey and tutorial; 
 
 ### Meteorological-related communication network
 * [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/) - RSSI under different weather prediction based on ML/DL;[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
