@@ -55,6 +55,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [AQM-BDG-in-NS3](https://github.com/ChangWu98/AQM-BDG-in-NS3) - End-to-end congestion control scheme including AQM in NS3 ; [paper](https://ieeexplore.ieee.org/abstract/document/10118624), [Code](https://github.com/ChangWu98/AQM-BDG-in-NS3)
 * [QueuePilot](https://github.com/2dm/QueuePilot) - DRL-based AQM to optimize network; [paper](https://ieeexplore.ieee.org/abstract/document/10228975/), [Code](https://github.com/2dm/QueuePilot)
 * [Net-MARS](https://github.com/matteoprata/Net-MARS.git) - Network recovery after massive failures; [Paper](https://ieeexplore.ieee.org/abstract/document/10228861/), [Code](https://github.com/matteoprata/Net-MARS.git)
+* [cross_layer_opt_with_grl](https://github.com/zhangxiaochen95/cross_layer_opt_with_grl) - Graph Reinforcement Learning based joint routing and radio resource allocation in wirelss AdHoc Network; [paper](https://ieeexplore.ieee.org/abstract/document/10418175), [Code](https://github.com/zhangxiaochen95/cross_layer_opt_with_grl)
 
 #### Updating...
 
