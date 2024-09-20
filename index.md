@@ -30,6 +30,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [aLLM4TS](https://github.com/yxbian23/aLLM4TS) - Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning(ICML24); [paper](https://arxiv.org/abs/2402.04852), [Code](https://github.com/yxbian23/aLLM4TS)
 * [Awesome-LLM4Graph-Papers](https://github.com/HKUDS/Awesome-LLM4Graph-Papers) - LLM for Graph Learning survey and tutorial
 * [LLM4TS](https://github.com/liaoyuhua/LLM4TS) - Large Language & Foundation Models for Time Series
+* [Self-llm](https://github.com/datawhalechina/self-llm/tree/master) - 开源大模型食用指南 by datawhalechina
 
 ### Meteorological-related communication network
 * [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/) - RSSI under different weather prediction based on ML/DL;[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
