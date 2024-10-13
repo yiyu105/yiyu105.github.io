@@ -22,6 +22,11 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 ## Interested Project
 
+###LLM/GDM4OPT
+
+* [MoE-PPO](https://github.com/RickyZang/GAI-agent-satellite) - GAI-based PPO for transmission optimization; [paper](https://ieeexplore.ieee.org/abstract/document/10679152/),[code](https://github.com/RickyZang/GAI-agent-satellite)
+
+
 ### LLM4X
 * [LLM4CP](https://github.com/liuboxun/LLM4CP) - LLMs for channel Prediction. 
 * [GDMOPT](https://github.com/changsenxia/GDMOPT) - Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization.
@@ -37,6 +42,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 ### Meteorological-related communication network
 * [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/) - RSSI under different weather prediction based on ML/DL;[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
+* [computational intelligence-based maximize signal-to-noise ratio](https://peerj.com/articles/cs-2237/#supplemental-information) - Automatic spread factor and position definition for UAV gateway through computational intelligence approach to maximize signal-to-noise ratio in wooded environments
 
 ### Network metric/performance prediction
 * [wireless-pr3d](https://github.com/samiemostafavi/wireless-pr3d) - latency of 5G link prediction(GLOBECOM24);[paper](https://ieeexplore.ieee.org/abstract/document/10437281),[code](https://github.com/samiemostafavi/wireless-pr3d)
@@ -60,6 +66,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [QueuePilot](https://github.com/2dm/QueuePilot) - DRL-based AQM to optimize network; [paper](https://ieeexplore.ieee.org/abstract/document/10228975/), [Code](https://github.com/2dm/QueuePilot)
 * [Net-MARS](https://github.com/matteoprata/Net-MARS.git) - Network recovery after massive failures; [Paper](https://ieeexplore.ieee.org/abstract/document/10228861/), [Code](https://github.com/matteoprata/Net-MARS.git)
 * [cross_layer_opt_with_grl](https://github.com/zhangxiaochen95/cross_layer_opt_with_grl) - Graph Reinforcement Learning based joint routing and radio resource allocation in wirelss AdHoc Network; [paper](https://ieeexplore.ieee.org/abstract/document/10418175), [Code](https://github.com/zhangxiaochen95/cross_layer_opt_with_grl)
+
 
 #### Updating...
 
